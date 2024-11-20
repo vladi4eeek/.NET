@@ -83,6 +83,7 @@ internal static class Program
             Console.WriteLine("Invalid date format. Please try again.");
         }
     }
+    
 
     private static TEnum PromptForEnum<TEnum>(string prompt) where TEnum : struct
     {
