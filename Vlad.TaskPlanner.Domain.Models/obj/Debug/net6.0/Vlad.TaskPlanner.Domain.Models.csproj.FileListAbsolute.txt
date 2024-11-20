@@ -1,0 +1,12 @@
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.deps.json
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.csproj.AssemblyReference.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.AssemblyInfoInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.AssemblyInfo.cs
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.csproj.CoreCompileInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\refint\Vlad.TaskPlanner.Domain.Models.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Models\obj\Debug\net6.0\ref\Vlad.TaskPlanner.Domain.Models.dll

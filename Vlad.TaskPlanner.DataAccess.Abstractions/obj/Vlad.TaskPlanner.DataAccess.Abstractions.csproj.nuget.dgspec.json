@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.DataAccess.Abstractions\\Vlad.TaskPlanner.DataAccess.Abstractions.csproj": {}
+  },
+  "projects": {
+    "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.DataAccess.Abstractions\\Vlad.TaskPlanner.DataAccess.Abstractions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.DataAccess.Abstractions\\Vlad.TaskPlanner.DataAccess.Abstractions.csproj",
+        "projectName": "Vlad.TaskPlanner.DataAccess.Abstractions",
+        "projectPath": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.DataAccess.Abstractions\\Vlad.TaskPlanner.DataAccess.Abstractions.csproj",
+        "packagesPath": "C:\\Users\\xdjmv\\.nuget\\packages\\",
+        "outputPath": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.DataAccess.Abstractions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xdjmv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\Vlad.TaskPlanner.Domain.Models.csproj": {
+                "projectPath": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\Vlad.TaskPlanner.Domain.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\Vlad.TaskPlanner.Domain.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\Vlad.TaskPlanner.Domain.Models.csproj",
+        "projectName": "Vlad.TaskPlanner.Domain.Models",
+        "projectPath": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\Vlad.TaskPlanner.Domain.Models.csproj",
+        "packagesPath": "C:\\Users\\xdjmv\\.nuget\\packages\\",
+        "outputPath": "C:\\vntu\\MyVNTU\\3_kurs\\dotnet\\Labs_Vlad\\Vlad.TaskPlanner\\Vlad.TaskPlanner.Domain.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xdjmv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.427\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

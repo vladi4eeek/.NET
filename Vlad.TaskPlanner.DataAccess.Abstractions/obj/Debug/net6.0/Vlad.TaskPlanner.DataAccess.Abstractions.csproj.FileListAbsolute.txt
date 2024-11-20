@@ -1,0 +1,15 @@
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.deps.json
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.csproj.AssemblyReference.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.AssemblyInfoInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.AssemblyInfo.cs
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.csproj.CoreCompileInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.csproj.CopyComplete
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\refint\Vlad.TaskPlanner.DataAccess.Abstractions.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.DataAccess.Abstractions\obj\Debug\net6.0\ref\Vlad.TaskPlanner.DataAccess.Abstractions.dll

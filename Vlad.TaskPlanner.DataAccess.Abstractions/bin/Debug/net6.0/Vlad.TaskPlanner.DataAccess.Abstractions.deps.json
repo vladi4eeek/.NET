@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Vlad.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+        "dependencies": {
+          "Vlad.TaskPlanner.Domain.Models": "1.0.0"
+        },
+        "runtime": {
+          "Vlad.TaskPlanner.DataAccess.Abstractions.dll": {}
+        }
+      },
+      "Vlad.TaskPlanner.Domain.Models/1.0.0": {
+        "runtime": {
+          "Vlad.TaskPlanner.Domain.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vlad.TaskPlanner.DataAccess.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Vlad.TaskPlanner.Domain.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

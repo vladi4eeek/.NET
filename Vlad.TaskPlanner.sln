@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner", "Vlad.TaskPlanner\Vlad.TaskPlanner.csproj", "{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner.Domain.Models", "Vlad.TaskPlanner.Domain.Models\Vlad.TaskPlanner.Domain.Models.csproj", "{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{2DEEEAAD-320A-4D53-922C-817F890699A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner.Domain.Logic", "Vlad.TaskPlanner.Domain.Logic\Vlad.TaskPlanner.Domain.Logic.csproj", "{F57E01DD-3AE6-453C-AC73-33CE8D9B7121}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", "{38B2F9BF-9E91-473A-A575-099F29FD2FF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner.DataAccess.Abstractions", "Vlad.TaskPlanner.DataAccess.Abstractions\Vlad.TaskPlanner.DataAccess.Abstractions.csproj", "{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner.DataAccess", "Vlad.TaskPlanner.DataAccess\Vlad.TaskPlanner.DataAccess.csproj", "{370275AD-0F9D-4AC9-88C2-922589F5F78A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{087F4312-6FA2-4860-A5E0-095E1843C9C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vlad.TaskPlanner.Domain.Logic.Tests", "Vlad.TaskPlanner.Domain.Logic.Tests\Vlad.TaskPlanner.Domain.Logic.Tests.csproj", "{6D006E26-2ED7-42A3-87F6-73A5E5A0C302}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F57E01DD-3AE6-453C-AC73-33CE8D9B7121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F57E01DD-3AE6-453C-AC73-33CE8D9B7121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F57E01DD-3AE6-453C-AC73-33CE8D9B7121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F57E01DD-3AE6-453C-AC73-33CE8D9B7121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{370275AD-0F9D-4AC9-88C2-922589F5F78A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{370275AD-0F9D-4AC9-88C2-922589F5F78A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{370275AD-0F9D-4AC9-88C2-922589F5F78A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{370275AD-0F9D-4AC9-88C2-922589F5F78A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D006E26-2ED7-42A3-87F6-73A5E5A0C302}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D006E26-2ED7-42A3-87F6-73A5E5A0C302}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D006E26-2ED7-42A3-87F6-73A5E5A0C302}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D006E26-2ED7-42A3-87F6-73A5E5A0C302}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2FC94D59-4837-434A-ABC7-1D5F8BEB8F9F} = {2DEEEAAD-320A-4D53-922C-817F890699A7}
+		{F57E01DD-3AE6-453C-AC73-33CE8D9B7121} = {2DEEEAAD-320A-4D53-922C-817F890699A7}
+		{3184D660-8F49-4BE4-9ADD-1FB72FC3C9C3} = {38B2F9BF-9E91-473A-A575-099F29FD2FF1}
+		{370275AD-0F9D-4AC9-88C2-922589F5F78A} = {38B2F9BF-9E91-473A-A575-099F29FD2FF1}
+		{3B94A73E-E41E-4B26-8F4C-3B87B813EEC1} = {087F4312-6FA2-4860-A5E0-095E1843C9C1}
+		{6D006E26-2ED7-42A3-87F6-73A5E5A0C302} = {2DEEEAAD-320A-4D53-922C-817F890699A7}
+	EndGlobalSection
+EndGlobal

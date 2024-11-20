@@ -1,0 +1,17 @@
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.deps.json
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.DataAccess.Abstractions.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\bin\Debug\net6.0\Vlad.TaskPlanner.Domain.Models.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.csproj.AssemblyReference.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.AssemblyInfoInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.AssemblyInfo.cs
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.csproj.CoreCompileInputs.cache
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.csproj.CopyComplete
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\refint\Vlad.TaskPlanner.Domain.Logic.dll
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\Vlad.TaskPlanner.Domain.Logic.pdb
+C:\vntu\MyVNTU\3_kurs\dotnet\Labs_Vlad\Vlad.TaskPlanner\Vlad.TaskPlanner.Domain.Logic\obj\Debug\net6.0\ref\Vlad.TaskPlanner.Domain.Logic.dll
